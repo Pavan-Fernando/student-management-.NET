@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2yFNbZvZZIVYC2aDd+5pqm+MQ7tYt/iewJ4NHnLkLBE=",
+  "Source": "student-management-backend",
+  "BasePath": "_content/student-management-backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
